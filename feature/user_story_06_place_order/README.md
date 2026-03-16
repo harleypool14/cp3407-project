@@ -17,10 +17,12 @@ Order Items:
 - Quantity of items
 - Price of the items
 - The Subtotal amount
+
 Order Summary:
 - Subtotal amount
 - Delivery fee
 - Total amount
+
 Delivery Details:
 - Name of the customer
 - The address of the customer
